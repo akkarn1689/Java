@@ -1,10 +1,5 @@
 ## This repository is for my Java learninf journey.
 
-- Hello World!
-- Data Type
-
-I apologize for the oversight. Here's the entire README content in markdown format as you requested:
-
 ```markdown
 # Java Basics Documentation
 
