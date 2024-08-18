@@ -10,8 +10,8 @@ import java.util.Scanner;
  * Calculator
  */
 
-// Method Overloading
-// Method Overriding
+// Method Overloading: multiple methods of same name
+// Method Overriding: situation in inheritance
 
 
 

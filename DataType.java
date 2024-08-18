@@ -46,5 +46,8 @@ class DataType {
         byte i = (byte) c; // c % 256 (integer to byte conversion)
         int j = a*i; // type promotion
         System.out.println(j); //
+
+        // final keyword: same as const in C++
+
     }    
 }
