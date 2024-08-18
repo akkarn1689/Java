@@ -20,18 +20,18 @@ class DataType {
         short b = 10; // 
         int c = 259;
         long d = 2316465165165165l;
-        float e = 1.5f;
+        Float e = 1.5f;
         double f = 1.5;
         char g = 'k'; // '' for char & "" for string
         boolean h = true; // true or false only (can't use 0, 1)
 
         // System.out.println(a);
         // System.out.println(b);
-        System.out.println(c);
+        // System.out.println(c);
         // System.out.println(d);
-        // System.out.println(e);
+        System.out.println(e);
         // System.out.println(f);
-        // System.out.println(g);
+        // System.out.println(g); 
         // System.out.println(h);
 
         // Literals

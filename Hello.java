@@ -1,4 +1,4 @@
-// JDK - JRE - JVM + Libraries -
+// JDK -> JRE -> JVM + Libraries -
 // JRE (Java Runtime Environment)
 // JVM along with libraries is a part of JRE
 
