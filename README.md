@@ -1,7 +1,7 @@
-## This repository is for my Java learninf journey.
+## This repository is for my Java learning journey.
 
 
-# Java Basics Documentation
+# Java Documentation
 
 ## Table of Contents
 
