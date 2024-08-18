@@ -1,6 +1,6 @@
 ## This repository is for my Java learninf journey.
 
-```markdown
+
 # Java Basics Documentation
 
 ## Table of Contents
@@ -292,4 +292,3 @@ public class StringsExample {
 ## Conclusion
 
 This documentation covers the essential concepts of Java, including object-oriented programming, data types, arrays, strings, and more. Understanding these basics is crucial for further exploration and mastery of the Java programming language.
-```
